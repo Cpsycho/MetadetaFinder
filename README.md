@@ -26,4 +26,6 @@ This Python script provides functionalities to handle metadata within image file
     - Metadata will be stripped from the image, and the modified image will be saved to a specified location.
 
 ## Installation:
-$ git clone 
+$ pkg install python-pip
+$ pip install exif
+$ git clone https://github.com/Cpsycho/MetadetaFinder.git
